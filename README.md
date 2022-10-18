@@ -20,16 +20,20 @@ resp.js: In this file code return for hamburger , this hamburger introduce after
 Website design in different screen size for making responsive.
 
 **Laptop :**
+
 ![Screenshot (537)](https://user-images.githubusercontent.com/94066893/196499301-0a31770b-e24e-44fd-9c24-2d6bf9c9322a.png)
 
 
 **iphone 12 pro:**
+
 ![Screenshot (540)](https://user-images.githubusercontent.com/94066893/196499504-13c8e460-ac8b-4b14-aeeb-915310a72f20.png)
 
 
 **Tab :**
+
 ![Screenshot (538)](https://user-images.githubusercontent.com/94066893/196499617-c1b45758-0072-40d5-8a84-bdbdad142cc7.png)
 
 
 **Hamburger features**
+
 ![Screenshot (539)](https://user-images.githubusercontent.com/94066893/196499724-0da24d28-eecd-4b31-b34d-4c60b48fa96b.png)
